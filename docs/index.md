@@ -16,23 +16,11 @@ This page offers provides information about the project, from the guidelines, to
 - This page also provides information about how to get your data.
 - Check the [FAQs](https://egbendito.github.io/jekyll-theme-rtd/faqs.html) for some quick overview of the Carob.
 
-## 🚧 Warning!
-
-This theme is currently a **Work-In-Progress** but, while some things might be
-broken, it should be already usable.
-
-Missing features are listed in the GitHub issues with the
-[to-do label](https://github.com/carlosperate/jekyll-theme-rtd/issues?q=is%3Aissue+is%3Aopen+label%3Ato-do),
-and any known issues are listed with the
-[bug label](https://github.com/carlosperate/jekyll-theme-rtd/issues?q=is%3Aissue+is%3Aopen+label%3Abug).
-
-Contributions are very welcomed!
-
 ### Acknowledgments
 
 This work is a community effort aiming to make open primary research data more accessible and re-usable for many purposes. This effort is partly supported by a grant to [CGIAR Excellence in Agronomy initiative](https://www.cgiar.org/initiative/11-excellence-in-agronomy-eia-solutions-for-agricultural-transformation/) and by the University of California, Davis.
 
-#### Thank you to the contributors of Just the Docs!
+#### Thank you to the contributors of Carob!
 
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
