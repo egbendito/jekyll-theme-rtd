@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Theme Configuration
-nav_order: 1
+nav_order: 4
 ---
 
 # Theme Configuration

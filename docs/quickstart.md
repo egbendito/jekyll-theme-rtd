@@ -1,30 +1,20 @@
 ---
 layout: default
-title: 🚀 Quick Start With GitHub Pages
+title: About
 nav_order: 1
 ---
 
-# 🚀 Quick Start With GitHub Pages
+# About Carob
 
-There are several ways to configure the
-[GitHub Pages publishing source](https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site),
-I would recommend to use the `docs` folder option, as you can keep source code
-and documentation together in the master branch.
+The carob project is part of the [reagro](https://reagro.org/index.html) "family" of projects that aim to support efforts to improve data driven agricultural production
+and providing tools (and in the carob case data) to agricultural practitioners, data scientists and the general public.
+In particular, Carob provides a standardized and formatted dataset dollections for applications related to a variety of agricultural processes
+that can be leveraged to improve agricultural production.
 
-With that in mind, there are only three steps required to get your docs up an
-running with this theme:
+It does so by providing users a workflow to indicate how a dataset is brought into a common format.
+This workflow provides a variety of functions contained in the [`carobiner`](carobiner.html) package to facilitate the standardization.
 
-1. Add your documentation markdown files into a docs folder at the root of your
-  repository.
-1. Add to the docs folder a `_config.yml` file with this line:<br>
-  `remote_theme: carlosperate/jekyll-theme-rtd`
-1. Select your publishing source in the GitHub repository settings as indicated
-  in [the official documentation](https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
+Carob works as a community build project, so any dataset processed by a contributor is added to the pool of scripts that
+any user interested can benefit from and compile their own version of carob. This page also offers the possibility of
+compiling the datasets provided by the different contributors [here]().
 
-And that's it!
-
-![steps screenshot](assets/img/quick-start-steps.png)
-
-There are more configuration options explained in the rest of this theme
-documentation, or if you prefer it you can have a look at the
-[_config.yml file used to generate this website](https://github.com/carlosperate/jekyll-theme-rtd/blob/master/docs/_config.yml).
